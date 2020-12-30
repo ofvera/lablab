@@ -1,0 +1,1 @@
+select * from lablab.user_autoknowledget_analysis where deletedAt is null;

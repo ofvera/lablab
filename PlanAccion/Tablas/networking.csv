@@ -1,0 +1,967 @@
+id;username;company;name;created_at;updated_at;name;terminal;position;tag;deletedAt
+1;16657857-4;Unilever;"Pedro Soto";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+1;16657857-4;UBINN;"Juan José Andreu";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+171;9793350-2;BCI;"Fabian Figueroa";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+171;9793350-2;"CCAF 18 de Septiembre";"Julio Ramirez";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+171;9793350-2;"AFP Habitat";"Rodrigo Tonda";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+171;9793350-2;"AFP Cuprum";"Martín Mujica";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+171;9793350-2;Provida;"Hector Rosales";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+171;9793350-2;Sura;"Mario Vitar";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+171;9793350-2;Metlife;"Andres Merino";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+171;9793350-2;Metlife;"Patricio Molina";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+194;7016329-2;"Caja de Los Andes";"Nelson Rojas";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+194;7016329-2;"Caja de Los Andes";"roberto Carter";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+206;7014855-2;"Agunsa. Puertos en Coronel, Talcahuano, Calbuco y Valparaíso. ";"José Manuel Urenda";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+206;7014855-2;Agunsa;"Rodrigo Jimenez";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+206;7014855-2;Oxxean;"Jorge Pacheco";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+206;7014855-2;Oxxean;"Jorge Pacheco";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+206;7014855-2;Oxiquim;"FERNANDO BARROS TOCORNAL";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+206;7014855-2;"Guacolda Energía S.A.";"Javier Dib";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+206;7014855-2;"Sigdo Kopers / Puerto Ventana";"Juan Pablo Aboitiz Domínguez";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+206;7014855-2;"Generadoras de Chile";"Claudio Seebach";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+206;7014855-2;Carey;"Guillermo Carey Caro";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+209;13471862-5;SSSS;"Maria Jesus Schleyer";"2020-08-19 06:00:00";"2020-09-24 10:50:31";"Por Contactar";0;1;by-contact;NULL
+252;13025959-6;"Hohmann Consultores";"Claudio Hohmann";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+255;9063986-2;"Copec S.A.";"Joaquin Garcia Cortes";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+256;9906381-5;xxx;"Claudia Alcaino";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+258;7518691-6;Falabella;"Gonzalo Smith";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+258;7518691-6;Codelco;"Nicolai Bakovic";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+258;7518691-6;Finning;"Marco Berdichevsky";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+258;7518691-6;Telefónica;"Gladys Fuentes";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+258;7518691-6;CMPC;"Rafael Cox";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+258;7518691-6;DITEC;"José Luis Acuña";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+259;7049924-k;BUPA;"Georgeanne Barcelo";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+268;22780202-2;Innobis;"Trino Calma";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+274;9159570-2;Ripley;"Rafael Ferrada Moreira";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+274;9159570-2;"Focus Advisor";"Viviana Mashini";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+287;7264436-0;Factorline;"Ana Maria Lizarraga C.";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+287;7264436-0;nexus;"pablo silva";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+292;12911694-3;"Coca Cola";"Roberta Valenca";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+292;12911694-3;Ripley;"Miguel Cataldo Adasme";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+292;12911694-3;Transbank;"Ashley Devcic";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+292;12911694-3;"Grupo GTD";"Alberto Bezanilla";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+292;12911694-3;"Enjoy sa";"Rodrigo Larrain";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+292;12911694-3;BHP;"Javiera Parra (Referido Fiorella)";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+292;12911694-3;"Ditec Automoviles";"Tomas Etcheverry";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+292;12911694-3;Copec;"Patricio Escobar";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+292;12911694-3;Sodimac;"Ivan Goitiandia";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+292;12911694-3;Arquimed;"Rodrigo Atienza";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+292;12911694-3;"Banco Estado Empresas";"Michel Espinosa";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+292;12911694-3;Help;"Manuel Segura";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+292;12911694-3;Maigas;"Alvaro Santiestevan";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+292;12911694-3;Relix;"Egidio Saldivar";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+294;11809265-1;"UNIVERSIDAD DE CHILE";"Nicole Pinaud";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+294;11809265-1;"CLINICA INDISA";"Manuel Serra";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+294;11809265-1;"NESTLE CHILE";"Juan Esteban Dulcic";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+294;11809265-1;"BANCO CENTRAL";"Marcela Pumarino";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+294;11809265-1;"GRUPO CINCO";"Maria Jose Deichler";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+294;11809265-1;HUMANITAS;"Ornella Bono";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+294;11809265-1;"COCA COLA CHILE";"Viviana Zambrano";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+310;12454471-8;Codelco;"Jessica Gutiérrez Ovalle";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+310;12454471-8;"Anglo American";"Rodrigo Catalán Jara";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+310;12454471-8;Inchcape;"Diego Delpiano";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+313;7521174-0;Lipigas;"Armando Mombiela Oyarce";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+313;7521174-0;"Gasco ";"Marcia Toro";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+314;8666808-4;BHP;"Daniel Malchuck";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+314;8666808-4;Komatzu;"Douglas Kincaide";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+314;8666808-4;Paz;"Ariel Magendzo";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+335;7007766-3;"COMSA Sigdo Koppers";"Alfredo Rauld";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+335;7007766-3;GasValpo;"Luis Kipreos";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+335;7007766-3;"Gasmar S.A.";"Mario Basualto Vergara";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+335;7007766-3;"Asociación de AFP";"Fernando Larraín";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+335;7007766-3;PwC;"Juan Agustín Aguayo";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+355;24060004-8;LATAM;"Yanina Manassa";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+355;24060004-8;Falabella;"Adolfo Pittaluga";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+356;8827128-9;"Laboratorio Roche";"Ruben Angel Angel";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+356;8827128-9;"Laboratorio MSD";"Fiorella Cagliostro";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+364;7983832-2;CCA;"Américo Becerra";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+364;7983832-2;"BANCO DE CHILE";"Paulina Merino";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+364;7983832-2;Redelcom;"Roberto Chame";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+365;14758139-4;BCI;"Vicente Martinez";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+367;8808500-0;Metlife;"Andres Merino";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+367;8808500-0;MallPlaza;"Vicente Nuñez";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+367;8808500-0;AIEP;"Jorge Camps";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+367;8808500-0;Peugeot;"Rosario Cano";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+387;tal.rosen+prueba@lablab.cl;Walmart;"Juan Carvajal";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+387;tal.rosen+prueba@lablab.cl;Enel;"Maite Figueroa";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+391;14543731-8;Blackrock;"José Romero";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+398;7766953-1;ENAP;"MAURICIO NAVEAS";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+398;7766953-1;SONACOL;"ROBERTO HETZ";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+398;7766953-1;LIPIGAS;"FELIPE SLVA";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+398;7766953-1;METROGAS;"MARCOS CVJETKOVIC";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+414;13065818-0;SOCOFAR;"Bernardo Morellos";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+414;13065818-0;DELOITTE;"Pablo Herrera";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+414;13065818-0;WALLMART;"Eli Senerman";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+416;11672347-6;"Ingeniería y Construcción Sigdo Koppers";"Eric Saphores";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+416;11672347-6;Toesca;"Augusto Rodríguez";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+416;11672347-6;"BTG Pactual";"Ignacio Rossetti";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+416;11672347-6;Belfi;"Alejandro Cristi";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+416;11672347-6;"Red Megacentro";"Luis Felipe Lehuedé";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+416;11672347-6;"Inmobiliaria Mena y Ovalle";"Juan Pablo Quiroz";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+416;11672347-6;"Constructora Bío Bío";"José Luis Cisternas";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+416;11672347-6;"Mas Errázuriz";"Andrés Llona";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+416;11672347-6;"Tempus Asset";"Cristóbal Viveros";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+416;11672347-6;Alborada;"Vicente Martínez";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+416;11672347-6;"Constructora El Sauce";"Roberto Fuentes";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+416;11672347-6;Alvial;"Alejandro Echeverría";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+416;11672347-6;"Inmobiliaria MB";"Mauricio Bobadilla";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+416;11672347-6;"Atacama Wealth Management";"Rodrigo Gonzalez Bolados";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+416;11672347-6;Nevasa;"Victoria Ruiz Tagle";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+417;12652352-1;ENAP;"Carlos Navarro";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+418;9911727-3;"Empresas Interoceanica";"Javier Bitar";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+418;9911727-3;ABIF;"Luis Opazo";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+418;9911727-3;EY;"Rodrigo Arroyo";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+418;9911727-3;"Banco Security";"Sergio Cavagnaro";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+418;9911727-3;"Los Heroes CCAF";"Paulo Marin";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+418;9911727-3;BPO-Advisors;"Jaime Pacheco Matte";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+418;9911727-3;"BHP Billiton";"Daniel Malchuk";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+418;9911727-3;"Caja de Compensacion Los Andes";"Nelson Rojas";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+418;9911727-3;Servipag;"Antonia Saenz";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+419;13890663-9;Enap;"Fernando Massu";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+419;13890663-9;Siemens;"Alberto Flores";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+420;13198051-5;Happaglloyd;"Eric Labra";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+420;13198051-5;Achipa;"Jorge Dittrich";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+421;7667072-2;"Banco Itau";"Mauricio Baeza";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+449;8933185-4;"BANCO BICE";"GONZALO ALVAREZ";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+451;6973157-0;"Banco Ripley";"Ada Paz Opazo Fuentes";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+451;6973157-0;"Cencosud - Scotiabank";"Roberto Proust Parot";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+451;6973157-0;Socofin;"Mario Sandoval";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+463;12809463-6;"HIS en RedSalud CCHC";"Luis Alberto Sanchez";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+463;12809463-6;"Clínica Las Condes";"Juan Eduardo Infante";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+463;12809463-6;"Rayen Salud";"Eric Mosnich";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+463;12809463-6;"Multicaja S.A";"Patricio Escobar Ferrand";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+463;12809463-6;Oracle;"Andres Caviedes";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+463;12809463-6;Tecnigen;"Pablo Rivas Bravo";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+463;12809463-6;"Nueva Clinica Cordillera";"Felipe Lopez Veloz";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+463;12809463-6;Stacks;"Claudio Agusto Agusto";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+463;12809463-6;"TIVIT LATAM";"Claudio Gonzalez Rodriguez";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+463;12809463-6;"Microsoft en Grupo Security";"Ariel Reyes";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+463;12809463-6;Adexus;"Daniel Manuel Campos Domingue";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+463;12809463-6;Axity;"Ivan Miranda Orellana";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+463;12809463-6;"Alaya Digital";"Pedro Veloso";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+463;12809463-6;"South LATAM Region en Agfa";"Marco Marquez Hevia";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+463;12809463-6;Segacy;"Miroslav Pavlovic";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+464;12798140-k;"Banco Security";"Roberto Guajardo";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+464;12798140-k;"Caja Los Andes";"Ricardo Vergara";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+464;12798140-k;"Caja los Héroes";"Paulo Marín";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+465;10716467-7;"Banco Estado";"Gonzalo Collarte";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+465;10716467-7;Servipag;"Antonia Saenz";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+465;10716467-7;"Ernst & Young";"Alvaro Cuchacovich";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+465;10716467-7;NULL;"Nicolas Larrain";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+465;10716467-7;NULL;"Allan Jarry";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+465;10716467-7;NULL;"Luis Diaz ";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+466;9008741-k;"Empresas LIpigas";"Angel Mafucci";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+473;16607485-1;"Credicorp Capital";"Maria Soledad Parada";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+473;16607485-1;Scineu;"Eugenia Soto Gaete";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+483;17270196-5;"Corporación Turismo";"Benjamín Vivanco";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+501;13432879-7;Walmart;"Gonzalo Gebara";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+501;13432879-7;"Patio Comercial";"Pablo Manriquez";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+501;13432879-7;NULL;"Alejandra Kabakian";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+501;13432879-7;Aragon;"Eduardo Carcavilla";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+501;13432879-7;"real Plaza";"Sebastian Montero";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+503;13954989-9;Entel;"Ruben Contreras";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+513;7029430-3;"CAJA COMPENSACION LOS HEROES";"ALEJANDRO MUÑOZ  ROJAS";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+513;7029430-3;"BANCO ITAU";"MAURICIO BAEZA";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+546;18393220-9;"Falabella Retail S.A";"Carolina Cambiasso";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+546;18393220-9;Ripley;" Jorge Farfan Kohnenkamp ";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+546;18393220-9;BlushBar;"Cristian Fontecilla";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+623;13433093-7;"Cruz Verde";"Gonzalo Duran";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+643;10620852-2;Salfa;"Daniela Marimon";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+643;10620852-2;"Medina y Ballart (reperesentación Toyota Temuco)";"Francisco Ballart";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+647;14133851-k;"Walmart Chile";"Sebastián Quijada";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+647;14133851-k;SQM;"Matias Lobos";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+647;14133851-k;Ariztía;"Diego Covarrubias";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+647;14133851-k;"Procter & Gamble";"Manuel Fernandez";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+648;9836877-9;Apple;"Maria José Poblete";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+648;9836877-9;BCI;"Claudia Pavon";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+648;9836877-9;Codelco;"Juan Ramón Sepulveda";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+648;9836877-9;Finning;"Fernando Tomsig";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+648;9836877-9;Agrosuper;"Michele Schneeberger";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+648;9836877-9;Masisa;"Katherine Koenig";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+651;6062334-1;"Porsche Chile";"Eduardo Pasten Guzmán";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+655;7374530-6;BUPA;"Diego Vergara";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"Clínica Alemana";"Cristián Piera";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"Clínica Indisa";"Julio Cano";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"Red Salud UC Christus";"Alejandro Canavatti";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"Clínica Puerto Varas y Otras Inv en Salud";"Carlos Kubick Castro";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"Inter Clínicas";"Pedro Navarrete I.";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"Home Office Ibáñez";"Joaquín Canessa M.";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;Bupa;"Gonzalo Difonso";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"Isapre Colmena";"Nicolás Donoso";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"Red Salud CCHC";"Sebastián Reyes G.";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+367;8808500-0;"Head Hunter Excellentum";"Alejandra Vergara";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+294;11809265-1;"NVM Gestion de Talentos";"Birgit Nevermann";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+501;13432879-7;Sacyr;"Santiago Garcia";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+501;13432879-7;"OBE chile";"Oscar Ramos";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+501;13432879-7;"Veolia Chile";"Fernando Mora";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+648;9836877-9;Enel;"Juan Pablo Berlinger";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+648;9836877-9;BHP;"Roberto Hetz";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+648;9836877-9;Santander;"Francisco Helo";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+648;9836877-9;Enap;"Paola Camus";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+647;14133851-k;Agrosuper;"Juan Pablo Gazmuri";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"Asesor ADN Retail DIN ABC DIJON / AVIS RENT A CAR";"Alejandro Danús Ch.";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+83;14524393-9;"Yamana Gold";"Caterina Pino";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+83;14524393-9;"Minera Alxar";"Liliana Vildosola";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+171;9793350-2;"Banco Estado";"Marcos Perez";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+171;9793350-2;"Cruz Blanca";"Jaime Baraqui Anania";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+171;9793350-2;"Director Ejecutivo Empresas Clinica Alemana";"Jorge Lafrentz";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+171;9793350-2;Principal;"Jose Antonio Llaneza ";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+171;9793350-2;Confuturo;"Diego Silva Robert";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+171;9793350-2;"Banco Ripley";"Jesus Garate Gallo";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+171;9793350-2;"Solventa (Cruz Verde)";"Jaime Cordova";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+193;7298846-9;ASICOM;"SERGIO FERNANDO CAMPERO QUEZADA";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+206;7014855-2;Colbun;"Bernardo Larrain Matte";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+206;7014855-2;Colbun;"Rodrigo Donoso Munita";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+206;7014855-2;Entel;"Antonio Buchi";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+206;7014855-2;"Puerto Panul ";"Juan Pablo Correa";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+206;7014855-2;Tivit;"Leonardo Covalschi";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+206;7014855-2;Coasin;"Raúl Ciudad";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+206;7014855-2;Coasin;"Raúl Ciudad";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+206;7014855-2;"Fepasa SK";"Oscar G. Garreton";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+206;7014855-2;Sonda;"Mario Pavon";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+206;7014855-2;Director;"Ricardo Majluf";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+206;7014855-2;Somarco;"Christian Blanc";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+206;7014855-2;"TCVAL Puerto Valparaíso";"Alvaro Espinoza";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+206;7014855-2;CAP;"Pamela Urrea";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+206;7014855-2;Carey;"Guillermo Carey Caro";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+206;7014855-2;"Agunsa. Puertos en Coronel, Talcahuano, Calbuco y Valparaíso. ";"Fernando Rodriguez";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+206;7014855-2;CAP;"Pamela Urrea";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+206;7014855-2;"Antofagasta Minerals";"Pablo Orozco";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+206;7014855-2;Symnetics;"Angélica Iriarte";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+206;7014855-2;"Consultor Infraestructura y Transporte";"Guillermo Muñoz N.";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+206;7014855-2;TRANSAP;"Andres Pirazolli";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+253;10845368-0;Paris;"Juan Diego Valdes";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+292;12911694-3;Imed;"Michel Moya";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+292;12911694-3;"Bee Consulting";"Juan Cardona";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+292;12911694-3;Sertus;"Francisco Galvez";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+292;12911694-3;Maigas;"Alvaro Santiestevan";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+292;12911694-3;"Estratos tratamientos especiales";"Clemnte Villarroel";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+292;12911694-3;Royalamerica;"Pablo Alamos";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+314;8666808-4;Sephora;"Silene Rodriguez";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+335;7007766-3;Saesa;"Francisco Alliende Arriagada";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+335;7007766-3;CMPC;"Rafael Cox";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+356;8827128-9;OTEC;"Nolberto Lopez";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+365;14758139-4;DCV;"Gabriela Finkelstein";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+365;14758139-4;PRACTIA;"Viviana Laureyro";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+365;14758139-4;Altiuz;"Renato Cisterna";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+365;14758139-4;"TCS Consulting";"Luis Pinto";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+365;14758139-4;"Valor Unico";"Rodrigo Carrasco";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+365;14758139-4;Nexus;"Gloria Monge";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+366;13435201-9;"Tech Data ";"Ivana Morassutti";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+366;13435201-9;Vertiv;"Daniel de Vinatea";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+366;13435201-9;"Prysmian Chile";"Aldo Estay";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+367;8808500-0;Engie;"Rodrigo Sanchez";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+367;8808500-0;SMU;"Horacio Montalba";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+390;12226714-8;"Global Group";"Edmundo Moya";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+390;12226714-8;Cencosud;"Rodrigo Pulgar";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+390;12226714-8;LATAM;"Willy Salazar";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+390;12226714-8;IBM;"María Teresa Jaurés";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+390;12226714-8;"Banco Internacional";"Johana Pérez";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+390;12226714-8;Angloamerican;"Carlos Gallorio";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+390;12226714-8;DELL;"Mauricio Chacón";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+398;7766953-1;"MINERA ISLA RIESCO";"PATRICIO ALVARADO";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+398;7766953-1;"PUERTO COQUIMBO";"ALDO SIGNORELLI";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+417;12652352-1;Kaufmann;"Roberto beckdorf Schlegel";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+417;12652352-1;IPF;"Santiago Romero Oneto";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+417;12652352-1;"Saracho Consultores";"Jose Maria Saracho";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+420;13198051-5;ATI;"Enrique Arteaga";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+420;13198051-5;"Modal Trade";"Jaime Urenda";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+451;6973157-0;"AFP Modelo";"Vania Figueroa Salgado";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+451;6973157-0;CCU;"David Guevara Pasten";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+451;6973157-0;"Eurocapital S.A.";"Maria Pia Cordova Celedon";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+451;6973157-0;"eCapital Group";"Hugo Baranda ";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+451;6973157-0;"Banco Itau";"Alvaro Patricio Wrobbel Mauriz";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+451;6973157-0;"Banco Itau";"Mauricio Baeza Letelier";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+451;6973157-0;"AFP Uno";"Susana Andaluz Grimberg";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+465;10716467-7;NULL;"Max Grekin";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+465;10716467-7;NULL;"Patricio Silva Lewin";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+465;10716467-7;NULL;"Jorge Leyton";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"Kingsley Gate Partners, LLC";"Alan Mc Donald";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"Hospital Clínico UC";"Cristián de la Fuente";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"Asesor ADN Retail DIN ABC DIJON / AVIS RENT A CAR";"Alejandro Danús Ch.";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"Clinicas de Chile AG";"Ana María Albornóz";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;Independiente;"Andrés Santelices T";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"Grupo Cinco (HH)";"Bárbara Pérez";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;HHunter;"Beatríz Birell";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;Independiente;"Claudio Bravo S.";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"Clínica Santa María";"Claudio Navarrete";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"Empresas Banmédica";"Cristian Ugarte P.";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"Clínica Bupa Reñaca";"Elizabeth Frese";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"Empresas Banmédica";"Fernando Matthews C.";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"DIrector Empresas";"Héctor Concha M.";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"Mall Plaza";"Ivan Magdic";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"Multi Director Empresas";"Jorge Awad M.";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"GD Consultores";"Jorge Waidele Cortés";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"Clínica Universidad de Los Andes ";"Julio Valenzuela ";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"Clínica Santa Maria";"Martín Manterola Vince";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"Matus de la Parra Abogados";"Omar Matus de la Parra";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"Red Salud UC Christus";"Pablo Gajardo T.";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"Amrop (HH)";"Paula Vergara";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"Isapre Banmédica";"Pedro García Apillaga";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"Empresas Banmédica";"Phillip Wathmore M.";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;LabLab;"Rafael Rodríguez";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"Asesor Empresas";"Ricardo Moder E.";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"BP Consulting";"Rodrigo Miguel Rocha";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"Clínica Oftalmológica Pasteur";"Santiago Venegas D.";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+678;8942242-6;"Médico Independiente";"Victor Silveira";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+451;6973157-0;Servipag;"Manuel Albero Moraga beltran";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+451;6973157-0;"Banco Scotiabank";"Lilian Alejandra Negrete Allendes";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+479;14131292-8;Omil;"Adiana Osorio";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+479;14131292-8;FLS;"José Tobar";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+827;14126592-k;MAXAM;"Maria Carolina Lagos";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+738;12319217-6;NULL;"Victor San Martin";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+734;13057174-3;"Hapag Lloyd";"Oscar Rojo";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+736;17838368-k;Lipigas;"Daniel Hermosilla";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+734;13057174-3;"Banco Santander";"Mario Orrego";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+924;7037300-9;"Salinas y Fabres ";"Carlos Fabres ";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+907;9906466-8;NULL;"Ana María Ulloa";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+907;9906466-8;NULL;"Felipe Pesce";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+907;9906466-8;NULL;"Jorge Kindermann";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+907;9906466-8;NULL;"Rubén Escudero";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+907;9906466-8;NULL;"Jorge Lema";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+899;7979722-7;"Refractarios Iunge";"Jorge Fonck";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+899;7979722-7;"Walmart Chile";"Denisse Goldfard";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+899;7979722-7;"New Trade";"Sergio Zuñiga";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+899;7979722-7;"Retail Compass";"Patricio Mansilla";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+899;7979722-7;"South Bridge - Puente Sur";"Eric Ostermeier";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+979;12182766-2;NULL;"Carolina Gujajardo";"2020-08-19 06:00:00";NULL;"Por Contactar";0;1;by-contact;NULL
+129;tal.rosen@lablab.cl;UBINN;"Trino Calma";"2020-08-26 16:31:41";NULL;"Por Contactar";0;1;by-contact;NULL
+898;12485512-8;"ECapital Group";"Monica Hidalgo";"2020-09-01 17:51:20";NULL;"Por Contactar";0;1;by-contact;NULL
+62;13172726-7;"DHL EXPRESS";"Cristian Vera";"2020-09-08 01:51:10";"2020-09-08 05:19:48";"Por Contactar";0;1;by-contact;NULL
+988;13568587-9;SMA;"Jose Rosende";"2020-09-11 10:45:49";"2020-09-11 10:46:00";"Por Contactar";0;1;by-contact;NULL
+988;13568587-9;Nextracker;"Alejo Lopez";"2020-09-11 10:46:28";"2020-09-11 10:46:28";"Por Contactar";0;1;by-contact;NULL
+988;13568587-9;Colbun;"Diego Garcia";"2020-09-11 10:47:12";"2020-09-11 10:47:12";"Por Contactar";0;1;by-contact;NULL
+988;13568587-9;Leidos;"Alfonso Tovar";"2020-09-11 10:52:05";"2020-09-11 10:52:05";"Por Contactar";0;1;by-contact;NULL
+988;13568587-9;Convertitalia;"Marco de Cataldo";"2020-09-11 10:52:46";"2020-09-11 10:52:46";"Por Contactar";0;1;by-contact;NULL
+988;13568587-9;Consultora;"Paola Sisty";"2020-09-11 10:52:56";"2020-09-11 10:52:56";"Por Contactar";0;1;by-contact;NULL
+364;7983832-2;"CAJA COMPENSACION LOS ANDES";"Laura Galarce";"2020-09-15 00:37:40";NULL;"Por Contactar";0;1;by-contact;NULL
+1032;11621328-1;"Boehringer Ingelheim";"Claudia Orellana";"2020-09-15 17:09:39";NULL;"Por Contactar";0;1;by-contact;NULL
+1032;11621328-1;Sanofi/Genzyme;"Felipe Tienken";"2020-09-16 09:02:48";NULL;"Por Contactar";0;1;by-contact;NULL
+1032;11621328-1;Sanofi/Pasteur;"Jacqueline Baeza";"2020-09-16 09:02:48";NULL;"Por Contactar";0;1;by-contact;NULL
+1031;8304202-8;"Pfizer Chile S A";"Patricia Banchero Querol";"2020-09-21 10:44:19";"2020-09-21 10:44:19";"Por Contactar";0;1;by-contact;NULL
+485;24657450-2;NULL;"PATRICIA ESPINOZA";"2020-09-21 12:22:25";"2020-09-21 12:22:25";"Por Contactar";0;1;by-contact;NULL
+1032;11621328-1;"Novartis Chile S.A.";"Alejandro Penagos";"2020-09-23 12:51:17";NULL;"Por Contactar";0;1;by-contact;NULL
+1032;11621328-1;"Laboratorio Tecnofarma";"Felipe Tienken";"2020-09-25 11:34:29";NULL;"Por Contactar";0;1;by-contact;NULL
+260;10549295-2;"Constructora Pocuro Spa";"Cristian Sironvalle";"2020-10-02 10:42:53";NULL;"Por Contactar";0;1;by-contact;NULL
+260;10549295-2;Brotec;"Eugenio Lopez";"2020-10-02 10:46:52";NULL;"Por Contactar";0;1;by-contact;NULL
+1029;11624917-0;Nestlé;"Luis Alberto García López";"2020-10-02 10:49:46";"2020-10-02 10:54:42";"Por Contactar";0;1;by-contact;NULL
+1029;11624917-0;"AMCHAM CHILE";"Nicolas Sanchez Sepulveda";"2020-10-02 10:50:18";"2020-10-02 10:50:18";"Por Contactar";0;1;by-contact;NULL
+1029;11624917-0;"Asesorias Legales Baranda Y Compania Abogados S A";"Bruno Baranda";"2020-10-02 10:50:36";NULL;"Por Contactar";0;1;by-contact;NULL
+1029;11624917-0;WALLMART;"Gonzalo Garrido Cabezas";"2020-10-02 11:11:04";NULL;"Por Contactar";0;1;by-contact;NULL
+1029;11624917-0;AVON;"Walter Tapia Stumpf";"2020-10-02 11:11:37";"2020-10-02 11:11:37";"Por Contactar";0;1;by-contact;NULL
+1029;11624917-0;"Soc De Transportes Nazar Limitada";"Tito Nazar";"2020-10-02 11:12:49";"2020-10-02 11:12:49";"Por Contactar";0;1;by-contact;NULL
+1029;11624917-0;BATA;"Marcos Canovas";"2020-10-02 11:16:50";"2020-10-02 11:16:50";"Por Contactar";0;1;by-contact;NULL
+1029;11624917-0;"Grupo TCS y OTEC Incrementa+ Ltda";"Mario Saucedo Guillen";"2020-10-02 11:17:15";"2020-10-02 11:17:15";"Por Contactar";0;1;by-contact;NULL
+1029;11624917-0;"Propiedadaes Carmona";"Cristian Carmona";"2020-10-02 11:17:32";"2020-10-02 11:17:32";"Por Contactar";0;1;by-contact;NULL
+1029;11624917-0;"Tecnopapel S.A.";"Isac Bon";"2020-10-02 11:18:04";"2020-10-02 11:18:04";"Por Contactar";0;1;by-contact;NULL
+723;18095586-0;"PepsiCo Inc.";"Joaquin Bell";"2020-10-26 10:00:35";NULL;"Por Contactar";0;1;by-contact;NULL
+655;7374530-6;CCU;"Jorgr alemparte";"2020-10-29 16:42:21";"2020-10-29 16:42:21";"Por Contactar";0;1;by-contact;NULL
+1156;26669893-3;NULL;"Bianca Parra";"2020-11-02 10:27:30";NULL;"Por Contactar";0;1;by-contact;NULL
+1;16657857-4;"Calma Ltda.";"Trino Calma";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+83;14524393-9;Cesco;"Alejandra Wood";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+206;7014855-2;Oxiquim;"Cecilia Pardo";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+206;7014855-2;Oxiquim;"Cecilia Pardo";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+254;8648019-0;Telefonica;"Ana Karina Ulloa";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+254;8648019-0;BAT;"Patricio Zapata";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+254;8648019-0;GPTW;"Jose Antonio Yazigi";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+292;12911694-3;Walmart;"Jeanette Molina";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+292;12911694-3;Help;"Manuel Segura";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+314;8666808-4;"JP Morgan";"Ariel Mosnaim";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+314;8666808-4;"Equation Partners";"Mario Mora";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+335;7007766-3;Cencosud;"Sebastián Conde Donoso";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+341;10084754-k;"Metro Santiago";"Alejandro Lagos";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+356;8827128-9;"Laboratorio Cassara - Novoplus";"Juan Pablo Carcavilla";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+356;8827128-9;"Sintoniza consultores";"Carlos Gonzalez";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+356;8827128-9;Sandoz;"Rodrigo San Martin";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+387;tal.rosen+prueba@lablab.cl;Copec;"Sofía Contreras";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+413;8399929-2;"Banco Rabobank";"Paulina Valdes";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+416;11672347-6;"Empresa Constructora Moller y Pérez Cotapos";"Cristián Serrano";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+416;11672347-6;Icafal;"Sergio Icaza Jarpa";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+416;11672347-6;Pocuro;"Pedro Núñez";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+416;11672347-6;Fundamenta;"Francisco Blanco";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+416;11672347-6;"Banco Itaú";"Mauricio Baeza";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+416;11672347-6;Econsult;"Alejandro Leay";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+418;9911727-3;"Banco Falabella";"Claudio Bragado";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+418;9911727-3;"Odfjell Terminals - Terquim S.A.";"Juan Ruiz Cuellar";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+418;9911727-3;FALP;"Soledad Neumann";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+419;13890663-9;"JP Morgan Chase";"Paulo Varela";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+419;13890663-9;Scotiabank;"Juan Carlos Cavallini";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+419;13890663-9;Fidelity;"Cristóbal Monje";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+451;6973157-0;Servipag;"Antonia Saenz ";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+462;9144055-5;Securiry;"Enrique Riquelme";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+483;17270196-5;GSCOM;"Loreto Repenning";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+678;8942242-6;"Clínica Las Condes ";"Andrés Illanes G.";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+678;8942242-6;Bupa;"Gonzalo Difonso";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+678;8942242-6;"Empresa Asociada a la Mineria";"Janet Awad M.";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+193;7298846-9;"In Motion Chile";"Carlos Miranda Kosch";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+206;7014855-2;"Codelco Teniente";"Germán Sandoval";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+206;7014855-2;Sonda;"Raul Vejar";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+206;7014855-2;IGEAS;"Alessandro Rodino";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+206;7014855-2;"Marítimo Portuario";"Oscar Diaz Pinto";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+206;7014855-2;MSC;"Maximiliano Alcorta";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+206;7014855-2;"CESI (filial ENEL)";"Stefano Filippini ";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+206;7014855-2;CESI/ENEL;"Gladys Narvaez ";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+206;7014855-2;ICIL;"Jorge Dublé Barahona";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+206;7014855-2;"CIs Transporte";"José Luis Opazo";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+292;12911694-3;Asesor;"mauricio vasquez";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+292;12911694-3;"Boarder Logistics";"Esteban Marchant";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+292;12911694-3;"ODONTOLOGIA SEMINARIO";"Alberto Villalba";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+292;12911694-3;ENA;"Emilio Clementi";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+356;8827128-9;OTEC;"Nilo Gonzalez";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+365;14758139-4;Santander;"Santiago Vásquez";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+366;13435201-9;"Nexsys ";"Hernan Ravier";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+390;12226714-8;Orbis;"Edison Pérez";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+390;12226714-8;Rigel;"Daniella Ibaceta";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+415;9135437-3;"Total Check";"Jose Miguel Benavides";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+451;6973157-0;Salcobrand;"Mario Bersano";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+451;6973157-0;"SAAM S.A.";"Gaston Moya ";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+294;11809265-1;ACHS;"Juan Luis Moreno";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+367;8808500-0;Agrosuper;"Carolina Telleria";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+367;8808500-0;"Caja Compensación La Araucana (ahora Asoc Isapres)";"Lorena Norambuena";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+367;8808500-0;"Cimenta Adm Gral Fondos de Inversión";"Fernando Rodriguez";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+367;8808500-0;SMU;"Gloria Salgado";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+723;18095586-0;MSC;"Jose Luis Cornejo";"2020-08-19 06:00:00";"2020-10-26 10:00:13";"Reunión Agendada";0;2;scheduled-meeting;NULL
+899;7979722-7;"Refractarios Iunge";"Jorge Fonck";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+899;7979722-7;SAS;"Cristian Figueroa";"2020-08-19 06:00:00";NULL;"Reunión Agendada";0;2;scheduled-meeting;NULL
+988;13568587-9;NULL;"Renzo Andrani";"2020-08-19 06:00:00";"2020-09-11 10:44:06";"Reunión Agendada";0;2;scheduled-meeting;NULL
+124;mariateresa.ferrada@lablab.cl;PPPP;"Fernando B";"2020-09-01 17:59:45";"2020-10-01 11:32:59";"Reunión Agendada";0;2;scheduled-meeting;NULL
+1032;11621328-1;"Astrazeneca Farmaceutica Chile Limitada";"Alejandra Arguedas";"2020-09-08 12:23:10";"2020-09-16 10:09:53";"Reunión Agendada";0;2;scheduled-meeting;NULL
+1032;11621328-1;"Soc Globalpharma Limitada";"Ivan Cajigal";"2020-09-08 12:25:21";"2020-09-15 16:46:48";"Reunión Agendada";0;2;scheduled-meeting;NULL
+988;13568587-9;"Solar Pack";"Felipe Novoa";"2020-09-11 10:47:42";"2020-09-11 10:53:46";"Reunión Agendada";0;2;scheduled-meeting;NULL
+1032;11621328-1;"Glaxosmithkline Chile";"Samuel Manthila";"2020-09-15 16:45:22";"2020-09-15 16:46:51";"Reunión Agendada";0;2;scheduled-meeting;NULL
+1032;11621328-1;"Grünenthal Chilena";"Eduardo Allen";"2020-09-15 16:45:22";"2020-09-15 16:47:03";"Reunión Agendada";0;2;scheduled-meeting;NULL
+1032;11621328-1;"Boehringer Ingelheim";"Luis Rodriguez";"2020-09-15 17:09:39";"2020-09-21 13:28:20";"Reunión Agendada";0;2;scheduled-meeting;NULL
+1031;8304202-8;"Laboratorio Tecnofarma";"Carla Arias";"2020-09-21 10:29:23";"2020-09-28 09:20:20";"Reunión Agendada";0;2;scheduled-meeting;NULL
+1029;11624917-0;"Pricewaterhousecoopers Capacitacion Y Desarrollo Profesional Limitada";"Enrique Chinchilla";"2020-10-02 10:57:57";"2020-10-02 10:57:57";"Reunión Agendada";0;2;scheduled-meeting;NULL
+1029;11624917-0;"Teleperformance Chile";"Juan Eduardo Garcia  Moure";"2020-10-02 11:10:45";"2020-10-02 11:10:45";"Reunión Agendada";0;2;scheduled-meeting;NULL
+1052;7012137-9;NULL;"Alvaro Bustos";"2020-10-21 19:00:57";"2020-10-21 19:01:53";"Reunión Agendada";0;2;scheduled-meeting;NULL
+1052;7012137-9;"Sanasalud Centros Medicos S.A.";"Daniel Verdugo";"2020-10-21 19:03:12";"2020-10-21 19:09:00";"Reunión Agendada";0;2;scheduled-meeting;NULL
+1156;26669893-3;"Esco Elecmetal Fundicion Limitada";"Agustin Cano";"2020-11-02 10:29:24";"2020-11-02 10:29:24";"Reunión Agendada";0;2;scheduled-meeting;NULL
+1;16657857-4;LabLab;"Rodrigo Vera";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+83;14524393-9;Mathiessen;"Felipe Yates";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+171;9793350-2;"Banco Itau";"Jorge Max Palazuelos";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+171;9793350-2;Scotiabank;"Jaqueline Balbontin";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+171;9793350-2;"Banco Santander";"Jorge Peña Collao";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+171;9793350-2;"CCAF Los Héroes";"Jaime Cruzat";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+171;9793350-2;"CCAF 18 de Septiembre";"Max Bravo";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+171;9793350-2;Coopeuch;"Rodrigo Silva iñiguez";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+171;9793350-2;Vantrust;"Alvaro Santa Maria";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+171;9793350-2;"Vida Security";"Bernardita Ham Valdes";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+193;7298846-9;IBM;"Maria Teresa Jaures";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;"SAAM/ Puertos Iquique, Antofagasta, San Antonio y San Vicente";"Macario Valdés";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;"Ultramar/ Puertos Arica, Mejillones/Angamos, Coquimbo, Valparaíso y Coronel";"Richard Von Appen";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;Ultramar;"Alvaro Brunet";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;"Dubai Ports Chile Pulogsa/ Puertos San Antonio y Lirquen";"Roberto Zilleruelo";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;"Odfjell Terminals/ Puertos Terquim San Antonio, Mejillones";"Ary Serpa";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;"ENGIE/ Puerto Tocopilla";"Claudio Iglesis";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;"Puerto Ventanas S.A.";"Jorge Oyarce";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;Optimisa;"Alfredo Piquer";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;"Generadores ERNC";"Carlos Finat";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;Inversiones;"Juan Carlos Olcay";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;EFE;"Pedro Pablo Errázuriz";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;Asset;"Gonzalo Fanjul";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;"Consultor y Académico";"Ronald Fischer";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;"Consejo Politica Infraestructura CPI";"Carlos Cruz L.";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+254;8648019-0;LHH;"Liliana Chahuan";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+258;7518691-6;"Aguas Andinas";"Camilo Larraín";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+258;7518691-6;"AES Gener";"María Paz Cerda";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+260;10549295-2;"Inmobiliaria Almagro";"Pablo Hachim";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+260;10549295-2;Socovesa;"Blas Troncoso";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+260;10549295-2;"Mall Plaza";"Alejandro Sepulveda";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+260;10549295-2;"Moller - Convet";"Marco Diaz";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+260;10549295-2;Ecasa;"Antonia Chicharro";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+260;10549295-2;"Inmobiliaria Norte Verde";"Felipe Norman";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+260;10549295-2;"Inmobiliaria Ingevec";"Rodrigo Herrera";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+260;10549295-2;"Inmobiliari Numancia";"Juan Santiago";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+274;9159570-2;"Inmobiliaria Manquehue";"Martín Swett Tobar";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+274;9159570-2;Independiente;"Ana Luisa Vivanco";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+274;9159570-2;"CF + Partners";"Ximena de la Rosa";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+292;12911694-3;Kaufmann;"Peter Plesr Marin";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+292;12911694-3;"Banco  Santander";"Gregorio Alvarez";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+292;12911694-3;"Cementos Bio Bio";"mauricio Pedreros";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+292;12911694-3;Relix;"Egidio Saldivar";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;"Zurich Santander";"Sabrina Otero";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;"RED SALUD CCHC";"Sebastian Reyes";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;QUIÑENCO;"Valerie De La Harpe";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;"CLINICA SANTA MARIA";"Martin Manterola";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;"CLINICA LAS CONDES";"Alejandro Meyer";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;"SURLATINA  CONSULTORES / UAI";"Gerson Volenski";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;"CLINICA MEDS";"Erika Cespedes";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;"CCU S.A.";"Gabriela Ugalde";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;INTERNAL;"Susana Caceres";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;"FINNING SOUTH AMERICA";"Marco Berdichevsky";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;"SALFA MANTENCIONES";"Javier Guevara";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;"CLINICA UNIVERSIDAD DE LOS ANDES";"Rodrigo Avendaño";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;GTD;"Soledad Matus";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;"C TALENT";"Rose Marie Blanc";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;"CLOU HR";"Claudia Castañon";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;ALTUM;"Nicolas Williams";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;"CLINICA OFTALMOLOGICA PASTEUR";"Santiago Venegas";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;FONASA;"Tatiana Cayazzo";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;"CMR FALABELLA";"Andrea Carvallo";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;"ASPEN PHARMA GROUP";"Ivan Duran";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;"GLOBAL JOBS";"Patricia Codecido";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;"Capital Ejecutivo";"Bernardita Cruzat";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;"EQUATION PARTNERS";"Eduardo Ortega";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;"MICHAEL PAGE";"Josefina Urrutia";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;"CARE CONSULTING";"Magdalena Frei";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;"FUNDACIÓN LAS ROSAS";"Gregorio Airola";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;"GRUPO TAWA";"Julio Arrieta";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;"GRUPO CYGNUS";"Sergio Alvarez";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;"INGELSERVICE LTDA";"Jorge Quevedo";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;IBM;"Cecilia Darquier";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;HOPARTNERS;"Paz Ovalle";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;"LIBANO & ASOCIADOS";"Oscar Libano";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;AAXIS;"Marcela Dujovne";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+294;11809265-1;"HK HUMAN CAPITAL";"Leslie Cooper";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+314;8666808-4;Walmart;"Miguel angel Ruiz";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+314;8666808-4;Paz;"Ariel Magendzo";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+314;8666808-4;"Korn ferry";"Sebastian Hammer";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+314;8666808-4;"Michael Page Executive";"Isabel Carrasco";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+323;16610095-k;saxsd;"Tal Rosen";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+335;7007766-3;"Albagli & Zaliaznik";"Rodrigo Albagli";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+335;7007766-3;Deloitte;"Joseph Courand";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+335;7007766-3;"Retirado como Ejecutivo";"Mario Valcarce";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+341;10084754-k;"Independiente ";"Alvaro Caballero ";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+341;10084754-k;"Banco Estado ";"Virginia Vergara";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+341;10084754-k;"Servicio Civil ";"Pedro Guerra";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+341;10084754-k;Globe;"Koichi Inamura";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+341;10084754-k;"Banco Estado ";"Virginia Vergara";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+341;10084754-k;"Arauco ";"Francisco Sauman";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+341;10084754-k;"Duoc UC";"Jaime Pinaud";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+341;10084754-k;"Michael page";"Carla Guillen";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+341;10084754-k;HK;"Lesly Cooper";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+341;10084754-k;Searchlight;"Teresita Ducheylard";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+341;10084754-k;"outplacement 04";"Hernan Bezamat";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+341;10084754-k;spring;"Gisela Rios";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+356;8827128-9;"Laboratorio Roche";"Ivan Ametler";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+356;8827128-9;"Laboratorio Sanofy";"Claudio Cereceda";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+356;8827128-9;"Laboratorio Gemark";"Héctor Pérez Matta";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+356;8827128-9;"Laboratorio Tecnofarma";"Leonardo Rasse";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+356;8827128-9;GSK;"Felipe Espínola González";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+356;8827128-9;"MG Consulting";"Cristina Correa";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+356;8827128-9;Sandoz;"Rodrigo San Martin";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+365;14758139-4;Microfocus;"Alejandro Miralles";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+365;14758139-4;Avattar;"Carlos Gattoni";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+365;14758139-4;TSOFT;"Diego Canosa";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+366;13435201-9;"HP Enterprise";"Luis Cea";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+366;13435201-9;HP;"Danny Canelo";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+366;13435201-9;Intcomex;"Jorge Bassa";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+366;13435201-9;Tecnoglobal;"Claudio Zapata";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;Provida;"Andrés Garcia";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;Metlife;"Beatriz Tauber";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;UBS;"Nicolas Bravo";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;"Barros y Errazuriz";"Juan Cristobal Schmidt";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;"Marley Coffee";"Catalina Lasen";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;"Duoc UC";"Ana Maria Gonzalez";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;INACAP;"Alberto Varela";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;Accenture;"Gabriela Alvarez";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;Cencosud;"Sebastian Bellocchio";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;"Confuturo / Camara Chilena de la Construccion";"Gonzalo Lecaros";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;PUC;"Cecilia Arriagada";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;"La Polar";"Loreto Rossler";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;Casbro;"Juan Carlos Castillo";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;BCI;"Matias Carvajal";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;"La Polar";"Loreto Rossler";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+387;tal.rosen+prueba@lablab.cl;Falabella;"Benjamín Lagos";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+387;tal.rosen+prueba@lablab.cl;"LATAM ";"Alexis Poblete";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+390;12226714-8;"Banco Estado";"Marcelo García";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+390;12226714-8;"BCI Corredores de Bolsa";"Hernán Valdivia";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+390;12226714-8;"EY Consulting";"José Ávila";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+398;7766953-1;LIPIGAS;"MYLENE IRIBARNE";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+398;7766953-1;"GASCO GLP";"CLAUDIO CORDOVA";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+398;7766953-1;"ENEL GENERACION";"MANUEL ALVAREZ";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+413;8399929-2;"Banco Santander";"Sergio Avila";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+413;8399929-2;"Banco Estado";"Andres Heusser";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+413;8399929-2;Falabella;"Juan Fernandez";"2020-08-19 06:00:00";"2020-08-19 17:35:33";"Reunión Efectuada";1;3;effected-meeting;NULL
+413;8399929-2;"Grupo Sura";"Juan Carlos Chomali";"2020-08-19 06:00:00";"2020-08-19 17:35:14";"Reunión Efectuada";1;3;effected-meeting;NULL
+413;8399929-2;Sinacofi;"Fernando Contardo";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+413;8399929-2;"Banco Security";"Antonio Alonso ";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+413;8399929-2;Transbank;"Gerardo Sapag";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+414;13065818-0;SOCOFAR;"Daniel Belaunde";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+414;13065818-0;ACCENTURE;"Agustín Alcaide";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+414;13065818-0;IBM;"Bruno Vacatello";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+415;9135437-3;"Banco del Estado";"Hernán Arretz";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+415;9135437-3;"Banco del Estado";"Eduardo de Las Heras";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+415;9135437-3;"banco Itaú";"Alejandro Pinto";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+415;9135437-3;"Banco Itaú";"Mauricio Baeza";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+415;9135437-3;"Banco BCI";"Ian MacNab";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+415;9135437-3;"Van Trust";"Patricio Nazal";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+415;9135437-3;"Falcom Capital";"Jose Miguel Alcalde";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+416;11672347-6;Salfacorp;"José Luis Sánchez";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+416;11672347-6;Besalco;"Arturo Arrigorriaga";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+416;11672347-6;"Echeverría Izquierdo";"Cristián Saitúa";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+416;11672347-6;Socovesa;"Francisco Lagos";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+416;11672347-6;"Tecno Fast";"Oscar Ramírez";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+416;11672347-6;EBCO;"Hernán Besomi";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+416;11672347-6;Arauco;"Héctor Zañartu";"2020-08-19 06:00:00";"2020-08-27 17:24:36";"Reunión Efectuada";1;3;effected-meeting;NULL
+416;11672347-6;Ingevec;"Rodrigo González";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+416;11672347-6;Boetsch;"Cristián Boetsch Fernández";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+416;11672347-6;"Bice Inversiones";"José Antonio Sanhueza";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+416;11672347-6;Enaco;"Dieter Hauser";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+416;11672347-6;Credicorp;"Heinrich Lessau";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+416;11672347-6;Inspira;"César Kattan";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+416;11672347-6;SAE;"Rodrigo Echavarri";"2020-08-19 06:00:00";"2020-08-27 17:37:25";"Reunión Efectuada";1;3;effected-meeting;NULL
+416;11672347-6;"Inmobiliaria Absal";"Víctor Saleh";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+416;11672347-6;"Viviendas 2000";"Eduardo Valenzuela";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+416;11672347-6;Armas;"Rodrigo Gabor";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+416;11672347-6;"Con Pax";"Fernando García Oldini";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+416;11672347-6;"Hiller Inversiones";"Enrique Taladriz";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+416;11672347-6;"Banco Consorcio";"Enrique Larraín";"2020-08-19 06:00:00";"2020-08-27 17:38:13";"Reunión Efectuada";1;3;effected-meeting;NULL
+416;11672347-6;"Banco Santander";"Pilar González";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+416;11672347-6;Sigro;"Tomas Palma";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+416;11672347-6;"Sigro Inmobiliaria";"Francisco Ruiz Tagle";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+416;11672347-6;"Inmobiliaria Brick";"Ignacio Bezanilla";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+416;11672347-6;"Van Trust";"Juan Benavides";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+417;12652352-1;GREEN;"Gabriel Gonzale ";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+417;12652352-1;JPL;"Patricio JPL";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+418;9911727-3;"Banco Itau";"Mauricio Baeza Letelier";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+418;9911727-3;"Banco Estado";"Eduardo de las Heras Val";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+418;9911727-3;"Management Solutions";"Diego Leis";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+418;9911727-3;CCS;"Carlos Astudillo";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+418;9911727-3;"Analytics 10";"Mariano Gonzalez";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+418;9911727-3;FINCO;"Sergio Sepulveda B.";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+419;13890663-9;"Banco Bice";"Agustín Álvarez";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+419;13890663-9;Tanner;"Juan Pablo Ramirez";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+419;13890663-9;"SAP Chile SA";"Patricio Martinez";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+419;13890663-9;"Teck Chile";"Christian Arentsen";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+419;13890663-9;"General Motors Financial Chile SA";"Rubén Rodríguez";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+419;13890663-9;"Penta Financiero SA";"Rodrigo Sprohnle";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+423;10309899-8;"Banco Santander";"Cristian Peirano";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+423;10309899-8;"Banco Consorcio";"Fernando Aguero";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+423;10309899-8;"Banco BICE";"Gonzalo Alvarez";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+423;10309899-8;"Banco Estado";"Arturo Tagle";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+423;10309899-8;"Servicios Financieros Progreso";"Juan Pablo Diaz";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+423;10309899-8;INCOFIN;"jaime vargas";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+423;10309899-8;FALCOM;"Fernando Concha";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+424;8674299-3;"Banco Scotiabank";"Arturo Tagle Quiroz";"2020-08-19 06:00:00";"2020-10-29 17:12:33";"Reunión Efectuada";1;3;effected-meeting;NULL
+449;8933185-4;"BANCO ITAU";"ALEJANDRO PINTO PEREZ";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+449;8933185-4;"AVLA CHILE";"HECTOR CASTAGNOLI";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+449;8933185-4;"BANCO ESTADO";"HERNÁN ARRETX";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+451;6973157-0;"Caja de Compensación 18 de Septiembre";"Hector Soto";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+451;6973157-0;"Banco Fallabella";"Nestor Maureira";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+451;6973157-0;"Banco Ripley";"Alvaro Marsh";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+451;6973157-0;"Banco Internacional";"Pablo Andres Villaseñor Fuentes";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+451;6973157-0;"Banco Internacional";"Lorena Bulnes Capaccio";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+462;9144055-5;Enap;"Alvaro Casanova";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+464;12798140-k;"Banco Itau";"Hernán Arancibia";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+464;12798140-k;"Banco Santander";"Alberto Frías";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+464;12798140-k;"Banco Internacional";"Valeria Araos";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+464;12798140-k;TalentPro-Latam;"Angélica Arteaga";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+465;10716467-7;Scotiabank;"Rodrigo Cañas";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+465;10716467-7;"Banco ITAU";"Mauricio Baeza";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+465;10716467-7;"eCapital Group";"Hugo Baranda";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+465;10716467-7;Vantrust;"Claudio Martinez";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+465;10716467-7;"Banco Bice";"Ignacio Hernandez";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+465;10716467-7;CORFO;"Maria de los Angeles Romo";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+465;10716467-7;CORFO;"Luis Felipe Oliva";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+465;10716467-7;"Banco Internacional";"Rodrigo Zamora";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+465;10716467-7;"Caja Los Andes";"Carlos Severino";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+465;10716467-7;"Banco Consorcio";"Mara Forer";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+465;10716467-7;NULL;"Alvaro Rosenblut";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+465;10716467-7;NULL;"Andres Achurra";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+465;10716467-7;NULL;"Carlos Porter";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+465;10716467-7;NULL;"Rodrigo Bustos";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+465;10716467-7;NULL;"Patricia Norambuena";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+465;10716467-7;NULL;"Sebastian Torrens";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+505;8777824-k;"Banco itau";"Maria Catalina Oyarzun";"2020-08-19 06:00:00";"2020-08-26 22:39:58";"Reunión Efectuada";1;3;effected-meeting;NULL
+505;8777824-k;Scotiabank;"Carola Eccher";"2020-08-19 06:00:00";"2020-08-26 22:38:04";"Reunión Efectuada";1;3;effected-meeting;NULL
+647;14133851-k;"BMW Motorad";"Benjamin Grohnert";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+648;9836877-9;"Casa & Ideas";"Victor Ochsenius";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+648;9836877-9;"Caja Los Andes";"Juan Francisco Montes";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+713;14397561-4;Scotiabank;"Jorge Ramirez Jimenez";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+267;25627844-8;NULL;"Juan José Andreu";"2020-08-19 06:00:00";"2020-10-18 02:02:43";"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;"Heah Hunter Correa Concha";"Jose Miguel Correa";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+648;9836877-9;Easy;"Felipe Longo";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+341;10084754-k;Proacción;"Jorge Arditi ";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+83;14524393-9;Scotiabank;"Francisco Sardón";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+83;14524393-9;Azure;"Emilio Deik";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+83;14524393-9;McKinsey;"Santiago fernandez-renau";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+171;9793350-2;"Banco Estado";"Leopoldo Quintano";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+171;9793350-2;"Banco Estado";"Juan Cooper Alvarez";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+171;9793350-2;"Banco Estado";"Marcelo Hiriart";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;Wartsilla;"Alejandro McDonough";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;Bice;"René Lehuedé";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;"AAPA Latam";"Francisco Gonzalez Silva";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;"AAPA Latam";"Francisco Gonzalez Silva";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;PLUS;"Osvaldo Schaerer";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;PLUS;"Osvaldo Schaerer";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;"METRO S.A.";"Louis de Grange";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;"METRO S.A.";"Louis de Grange";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;"Cis Ingenieros";"Marcos Lima";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;"Universidad de Chile";"Luis Vargas D.";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;AZVI;"Juan Lacassis";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;"DPW Caucedo República Dominicana";"Rodrigo Olea";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;"QC Terminales";"Carlos Pineda";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;Ferrovial;"Ricardo Fontecha";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;Ferrovial;"Ricardo Fontecha";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;ENAP;"José Luis Mardones";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;EMGRISA/ENUSA;"Alfonso Álvarez Rodríguez";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;"Universidad de Chile";"Luis Vargas D.";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;"Complejo Portuario Mejillones";"Teodoro Widwosky";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;bestenergy.cl;"Felipe Andrews";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;"CIS Asociados Consultores en Transporte S.A.";"Santiago Brito";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;Energía;"Juan Carlos Jobet";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;"METRO S.A.";"Louis de Grange";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;"Académico Uruguay Consultor http://marcelmordezki.com";"Marcel Mordezki";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;Pentacrom;"Sergio Solis";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;Euroconsult;"Andres Alvarez W.";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;Typsa;"José Luis Osuna";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;Ikons;"Julio Toro";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+206;7014855-2;"Consultor Infraestructura y Transporte";"Guillermo Muñoz N.";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+292;12911694-3;"Agencia de Aduana Moya";"Juan Ignacio Cabrera";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;"Isapre Cruz Blanca";"Marcia Perry Ovando";"2020-08-19 06:00:00";"2020-09-01 17:51:46";"Reunión Efectuada";1;3;effected-meeting;NULL
+356;8827128-9;"CUPRUM AFP";"Marcela Muñoz";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+356;8827128-9;"Pasteur Lab.";"Constantino Akentjew";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+365;14758139-4;"Socius Spa";"Facundo Curti";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+365;14758139-4;"Digital Force Consulting SPA";"Daniel De Sanctis";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+365;14758139-4;" DAMA Chile - Certificado CDMP Las Condes, Región Metropolitana de Santiago, Chile";"Francisco Guiñez";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+366;13435201-9;Intel;"Giancarlo Benedetto";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+366;13435201-9;Triplite;"Juan Pablo Ortuzar";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+366;13435201-9;ABB;"David Salas";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+366;13435201-9;Startech;"Agustin Figari";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+366;13435201-9;Entel;"Claudio Rodriguez";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;Sura;"Juan Cifuentes";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;Sura;"Ana Maria Lamonica";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;Sura;"Mario Vitar";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;Cobfuturo;"Claudio Gonzalez Neglia";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;Confuturo;"Andres Videla";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;"Banco Estado Seguros";"Rodrigo Della Maggiora";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;Laurate;"Pedro Covarrubias";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;"Agencia de Publicidad";"Pipo Peña";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;"Icaran Head Hunter";"Ana Maria Icaran (Claudia)";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;Abogado;"Alvaro Besa";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;"Red UC Christus";"Claudio Daniels";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;ASesoria;"Nicolas Ibieta";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;"CEI Negocios";"Rafael Irarrazaval";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;Coaching;"Pilar Valladares";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;ESE;"Matias Braun";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;UANDES;"Luis Alejandro Silva";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+390;12226714-8;Pragma;"Raúl Guerra";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+390;12226714-8;Ingerencia;"Alberto Jacobs";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+390;12226714-8;"Snoop Consulting";"Patricio Caballero";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+390;12226714-8;"PAD Systems";"Cristian Echenique";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+390;12226714-8;"BCI Corredores de Bolsa";"Hernán Valdivia";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+390;12226714-8;SII;"Felipe Mellado";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+390;12226714-8;"Candleworx Advisors";"Patricio Yon";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+390;12226714-8;"*Sin trabajo* Ex-Claro y varios contactos";"Francisco Concha";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+390;12226714-8;Bloomberg;"Antonio Godoy";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+390;12226714-8;"CAP Minería";"José Vega";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+398;7766953-1;"PRDW INGENIERIA DE COSTAS";"JAVIER VASQUEZ";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+398;7766953-1;"PUERTO ANGAMOS";"ALVARO ARROYO";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+398;7766953-1;"ENEL DISTRIBUCION";"RAMON CASTAÑEDA";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+398;7766953-1;"MAKEEN ENERGY";"CEDRIC MARMILLOUUX";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+413;8399929-2;"HK Capital";"Leslie Cooper";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+413;8399929-2;"head hunter";"Andrea Aleman";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+413;8399929-2;INVICA;"Felipe Arteaga";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+413;8399929-2;Soprole;"Nelson Pino";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+413;8399929-2;"Transformacion Digital";"Mario Ernst";"2020-08-19 06:00:00";"2020-08-19 17:35:20";"Reunión Efectuada";1;3;effected-meeting;NULL
+413;8399929-2;REDGLOBAL;"Angel Rebolledo";"2020-08-19 06:00:00";"2020-08-19 17:35:29";"Reunión Efectuada";1;3;effected-meeting;NULL
+415;9135437-3;"Grupo Bice";"Lucas Izcue";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+415;9135437-3;KPMG;"Tamara Agnic";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+415;9135437-3;"Fuenzalida Propiedades";"Joaquin De La Rosa";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+415;9135437-3;"Penta Financiero";"Javier Larrain";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+415;9135437-3;"Banco Estado";"Ramon Rey";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+415;9135437-3;"Latam Trade Nuevo Capital";"Carlos Baudrand";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+417;12652352-1;"GNL   Quintero";"Jaime Collins Cubillos";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+417;12652352-1;Jobconsulting;"Alvaro Jara ";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+417;12652352-1;Gasmar;"Mario Santibañez";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+417;12652352-1;"Parez y Alvarez";"Victor  Contreras";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+417;12652352-1;Equalitas;"Perdro Amestica";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+417;12652352-1;ENAEX;"Rodrigo Hinojosa";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+417;12652352-1;"Gerson Lehrman Group";"Ana  Seamans";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+417;12652352-1;conscret;"Roberto Saavedra";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+417;12652352-1;JPL;"Patricio JPL";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+417;12652352-1;Indumotora;"Sebastian Russi ";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+417;12652352-1;"Camara Chilena de la construcción";"Roberto Morrison";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+417;12652352-1;Abastible;"Ruben Rios";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+417;12652352-1;"Grupo Copec";"Jode Odone";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+423;10309899-8;"Penta Servicios Financieros";"Rodrigo Sprohlen";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+423;10309899-8;"ACF Capital";"martin corrra";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+423;10309899-8;VANTRUST;"Patricio Nazal";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+423;10309899-8;"Banco BCI";"Mario Gomez";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+451;6973157-0;"Caja de Compensacion 18  Septiembre";"Max Bravo";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+451;6973157-0;"Caja de Compensación Los Andes ";"Hernan Vergara Vazquez";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+464;12798140-k;"Telefonica Chile";"Francisco Jara";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+465;10716467-7;NULL;"Ricardo Barbieri";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+465;10716467-7;VTR;"Carlos Cordero";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+465;10716467-7;NULL;"Jose Ignacio Bertea";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+465;10716467-7;NULL;"Joaquin Contardo Silva";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+465;10716467-7;NULL;"Ricardo Valech";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+465;10716467-7;NULL;"Rodrigo Espinosa";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;Adidas;"Daniza Nuñez";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;"Von der Heide";"Ramiro Blazquez";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+648;9836877-9;"Empresa Portuaria Iquique";"Andrea Fuchslocher";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+648;9836877-9;Copec;"Pablo Marchant";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+648;9836877-9;Arcoprime;"Maria Jose Lopez";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+451;6973157-0;"Banco Estado";"Pedro Bolados Morales";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+451;6973157-0;"Banco Estado";"Gunther Wyss O";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+451;6973157-0;"Banco Estado";"Marcos Perez";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+479;14131292-8;Omil;"Adiana Osorio";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;INACAP;"Hernan Arancibia";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+209;13471862-5;SSSS;"Maria Jesus Schleyer";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+829;13548675-2;"Banco BCI";"Giovanni Medina";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;"Duoc UC";"Eduardo Benito";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+829;13548675-2;"Kawesqar Lab";"Christian Oros";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;"Independiente ex INACAP";"Rene Jeria";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+401;ramon.lillo@lablab.cl;Cardif;"Francisca Rozas";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+734;13057174-3;SAAM;"Claudio Salgado Martinez";"2020-08-19 06:00:00";"2020-08-19 19:17:05";"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;"Uno Salud Dental";"Felipe Telleria";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;"Producciones Yutronic";"Dinko Yutronic";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;XXX;"Javier Rojas";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+367;8808500-0;Softys;"Nicole Sansone";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+899;7979722-7;"ABC Consultores";"Andres Jadrijevic";"2020-08-19 06:00:00";NULL;"Reunión Efectuada";1;3;effected-meeting;NULL
+413;8399929-2;"Banco Italu";"Julian Acuña";"2020-08-19 17:38:05";"2020-08-19 17:38:05";"Reunión Efectuada";1;3;effected-meeting;NULL
+413;8399929-2;"Autopista Central";"Cristian Barrientos";"2020-08-19 17:38:05";"2020-08-19 17:38:05";"Reunión Efectuada";1;3;effected-meeting;NULL
+413;8399929-2;habitat;"Rodirgo Tonda";"2020-08-19 17:38:05";"2020-08-19 17:38:05";"Reunión Efectuada";1;3;effected-meeting;NULL
+413;8399929-2;DUOC;"Cramen Glora Lopez";"2020-08-19 17:38:05";"2020-08-19 17:38:05";"Reunión Efectuada";1;3;effected-meeting;NULL
+413;8399929-2;"Director de Banca Etica";"Mauricio Rojas";"2020-08-19 17:38:05";"2020-08-19 17:38:05";"Reunión Efectuada";1;3;effected-meeting;NULL
+413;8399929-2;Microsystem;"Isabel Almarza";"2020-08-19 17:38:05";"2020-08-19 17:38:05";"Reunión Efectuada";1;3;effected-meeting;NULL
+413;8399929-2;"Empresas de Servicio";"Nicolas Iglesias";"2020-08-19 17:38:05";"2020-08-19 17:38:05";"Reunión Efectuada";1;3;effected-meeting;NULL
+413;8399929-2;"DUOC UC";"Claudio Duce";"2020-08-19 17:38:57";"2020-08-19 17:38:57";"Reunión Efectuada";1;3;effected-meeting;NULL
+734;13057174-3;DuocUC;"Christian Cares Vasquez";"2020-08-19 19:14:43";"2020-08-19 19:14:43";"Reunión Efectuada";1;3;effected-meeting;NULL
+734;13057174-3;"Marmedsa Noatum";"Ander Rodriguez";"2020-08-19 19:15:12";"2020-08-19 19:15:12";"Reunión Efectuada";1;3;effected-meeting;NULL
+734;13057174-3;"Senado de la República de Chile";"Luis Rubio Galindo";"2020-08-19 19:15:38";"2020-08-19 19:15:38";"Reunión Efectuada";1;3;effected-meeting;NULL
+965;10723940-5;Indumotora;"Luz Maria Antunez ";"2020-08-25 11:13:47";"2020-08-25 11:13:47";"Reunión Efectuada";1;3;effected-meeting;NULL
+965;10723940-5;NULL;"Patricia Gamboa ";"2020-08-25 11:14:13";"2020-08-25 11:14:13";"Reunión Efectuada";1;3;effected-meeting;NULL
+965;10723940-5;"Red Salud";"Sebastian Buzeta";"2020-08-25 11:14:44";"2020-08-25 11:14:44";"Reunión Efectuada";1;3;effected-meeting;NULL
+965;10723940-5;Prosegur;"Mauricio Gonzalez ";"2020-08-25 11:15:21";"2020-08-25 11:15:21";"Reunión Efectuada";1;3;effected-meeting;NULL
+965;10723940-5;NULL;"Fernando Concha";"2020-08-25 11:15:41";"2020-08-28 13:20:18";"Reunión Efectuada";1;3;effected-meeting;NULL
+505;8777824-k;"Ernst & Young";"Alvaro Cuchacovich Francos";"2020-08-26 22:39:32";"2020-08-26 22:39:32";"Reunión Efectuada";1;3;effected-meeting;NULL
+505;8777824-k;"Banco Estado";"Carolina Vargas Catalan";"2020-08-26 22:48:16";"2020-08-26 22:48:16";"Reunión Efectuada";1;3;effected-meeting;NULL
+505;8777824-k;"Instituto de estudios Bancarios Guillermo Subercaseux";"Francisco Gomez Sanchez";"2020-08-26 22:48:16";"2020-08-26 22:48:16";"Reunión Efectuada";1;3;effected-meeting;NULL
+505;8777824-k;"Banco Itaú";"Cristian Inostroza Urrutia";"2020-08-26 22:48:43";"2020-08-26 22:48:43";"Reunión Efectuada";1;3;effected-meeting;NULL
+505;8777824-k;Capital;"Cristian Labarra Contreras";"2020-08-26 22:49:00";"2020-08-26 22:49:00";"Reunión Efectuada";1;3;effected-meeting;NULL
+505;8777824-k;UCSH;"Guillermo Escobar Alaniz";"2020-08-26 22:49:20";"2020-08-26 22:49:20";"Reunión Efectuada";1;3;effected-meeting;NULL
+505;8777824-k;Transbank;"Lorena Espinoza Santander";"2020-08-26 22:49:33";"2020-08-26 22:49:33";"Reunión Efectuada";1;3;effected-meeting;NULL
+505;8777824-k;"Grupo Tawa";"Paola Gerpe";"2020-08-26 22:59:03";"2020-08-26 22:59:03";"Reunión Efectuada";1;3;effected-meeting;NULL
+505;8777824-k;"Gestión Vitae";"María Antonieta Toro";"2020-08-26 23:01:57";"2020-08-26 23:01:57";"Reunión Efectuada";1;3;effected-meeting;NULL
+965;10723940-5;NULL;"Edgardo Rodriguez";"2020-08-28 13:20:01";"2020-08-28 13:20:01";"Reunión Efectuada";1;3;effected-meeting;NULL
+965;10723940-5;"Kar Logistics S.A.";"Sebastian Eugenin";"2020-08-28 13:20:32";"2020-08-28 13:20:32";"Reunión Efectuada";1;3;effected-meeting;NULL
+965;10723940-5;NULL;"Cristian Bargsted";"2020-08-28 13:21:03";"2020-08-28 13:21:03";"Reunión Efectuada";1;3;effected-meeting;NULL
+965;10723940-5;"Indumotora One";"Andres Richardson";"2020-08-28 13:21:23";"2020-08-28 13:21:23";"Reunión Efectuada";1;3;effected-meeting;NULL
+965;10723940-5;Falabella;"Martina Caviglia";"2020-08-28 13:21:46";"2020-08-28 13:21:46";"Reunión Efectuada";1;3;effected-meeting;NULL
+124;mariateresa.ferrada@lablab.cl;FEDEX;"Jorge LLanes ";"2020-09-01 10:57:39";"2020-10-01 11:33:02";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;"Grupo Security";"Sandra Rotiman";"2020-09-01 17:51:15";"2020-09-01 17:51:49";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;"Larrain Vial";"Juan Pablo Valdes";"2020-09-01 17:52:11";"2020-09-01 17:53:00";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;"Isapre Mas Vida";"Ximena Escobedo Kaempfe";"2020-09-01 17:52:11";"2020-09-01 17:54:03";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;Metlife;"Carlos Mosella León";"2020-09-01 17:52:47";"2020-09-01 17:54:05";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;Metlife;"Eugenio Guzmán";"2020-09-01 17:52:47";"2020-09-01 17:54:08";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;Pragma;"Dionisio González";"2020-09-01 17:55:34";"2020-09-01 17:55:44";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;Pragma;"Raúl Guerra Aravena";"2020-09-01 17:55:34";"2020-09-01 17:55:46";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;Previred;"Benjamin Urmeneta Flores";"2020-09-01 17:57:02";"2020-09-01 17:57:15";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;"UNO AFP";"Yasna Apablaza";"2020-09-01 17:57:02";"2020-09-01 17:57:17";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;"Vida Camara";"Mildred Davison";"2020-09-01 17:58:13";"2020-09-01 18:01:42";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;"Ernst & Young";"Andrés Acuña";"2020-09-01 17:58:53";"2020-09-01 18:01:44";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;"Bureau Veritas";"Javiera Serón";"2020-09-01 17:59:22";"2020-09-01 18:01:48";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;"Bureau Veritas";"Maria Jose Rodriguez";"2020-09-01 17:59:22";"2020-09-01 18:01:50";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;InovaBiz;"Ignacio Doglotti";"2020-09-01 17:59:39";"2020-09-01 18:01:52";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;"Depósito Central de Valores";"Jaime Fernandez Morandé";"2020-09-01 17:59:39";"2020-09-01 18:01:54";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;Practia;"Adrián Fiz";"2020-09-01 18:00:05";"2020-09-01 18:01:57";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;SAESA;"Barbara Boekemeyer";"2020-09-01 18:00:05";"2020-09-01 18:01:59";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;"Xiaomi Technology";"Eduardo Valencia";"2020-09-01 18:02:59";"2020-09-01 18:03:48";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;"Pesquera Camanchaca";"Carolina Casas";"2020-09-01 18:03:36";"2020-09-01 18:03:49";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;"Caja Los Heroes";"Daniel Varela";"2020-09-01 18:03:36";"2020-09-01 18:03:51";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;"BICE VIDA";"Juan Pablo Troncoso";"2020-09-01 18:03:36";"2020-09-01 18:03:53";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;"Amipass Chile";"Claudia Hidalgo Muñoz";"2020-09-01 18:04:29";"2020-09-01 18:04:42";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;"Banco BICE";"Juan Pablo Sanz";"2020-09-01 18:04:29";"2020-09-01 18:04:54";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;"Acruxcorp Consultores";"Marcela Calderón Ochoa";"2020-09-01 18:06:29";"2020-09-01 18:07:35";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;Everis;"Maria Isabel Hayes";"2020-09-01 18:07:18";"2020-09-01 18:07:39";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;"Nexos Corredores de Seguro";"Daniel Mallea";"2020-09-01 18:11:00";"2020-09-01 18:11:29";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;"Stratagemma Group";"Gregory Willia Parisi";"2020-09-01 18:11:00";"2020-09-01 18:13:10";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;mallplaza;"Paula Jara";"2020-09-01 18:11:00";"2020-09-01 18:13:14";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;"Walmart Chile";"Ximena Santibañez";"2020-09-01 18:11:00";"2020-09-15 11:53:03";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;Kodea;"Mónica Retamal";"2020-09-01 18:16:00";"2020-09-01 18:16:14";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;EMTEC;"Rodrigo Garcia Triat";"2020-09-01 18:16:00";"2020-09-01 18:16:36";"Reunión Efectuada";1;3;effected-meeting;NULL
+965;10723940-5;DERCO;"Andes Saenz";"2020-09-09 12:46:01";"2020-09-09 12:46:01";"Reunión Efectuada";1;3;effected-meeting;NULL
+965;10723940-5;IANSA;"Pablo Montecinos ";"2020-09-09 12:46:32";"2020-09-09 12:46:32";"Reunión Efectuada";1;3;effected-meeting;NULL
+988;13568587-9;Acciona;"Juan Araya";"2020-09-11 10:45:02";"2020-09-11 10:45:02";"Reunión Efectuada";1;3;effected-meeting;NULL
+988;13568587-9;"Mainstream Renewable Power";"Juan Pablo Toledo";"2020-09-11 10:45:16";"2020-09-11 10:45:16";"Reunión Efectuada";1;3;effected-meeting;NULL
+988;13568587-9;Enertis;"Aitor Iundain";"2020-09-11 10:46:18";"2020-09-11 10:46:18";"Reunión Efectuada";1;3;effected-meeting;NULL
+988;13568587-9;"RG Group";"Alvaro Moyano";"2020-09-11 10:46:35";"2020-09-11 10:46:35";"Reunión Efectuada";1;3;effected-meeting;NULL
+988;13568587-9;AES;"Angelica Gabot";"2020-09-11 10:46:44";"2020-09-11 10:46:44";"Reunión Efectuada";1;3;effected-meeting;NULL
+988;13568587-9;Tritec;"Christian Pichard";"2020-09-11 10:46:54";"2020-09-11 10:46:54";"Reunión Efectuada";1;3;effected-meeting;NULL
+988;13568587-9;"Atlas Renewable Energy";"Fabian Gonzalez";"2020-09-11 10:47:21";"2020-09-11 10:47:21";"Reunión Efectuada";1;3;effected-meeting;NULL
+988;13568587-9;"Cool Power";"Felipe Chaparro";"2020-09-11 10:47:29";"2020-09-11 10:47:29";"Reunión Efectuada";1;3;effected-meeting;NULL
+988;13568587-9;"Michael Page";"Allan Pollanco";"2020-09-11 10:52:16";"2020-09-11 10:52:16";"Reunión Efectuada";1;3;effected-meeting;NULL
+988;13568587-9;"Consultor Energia";"Andres Rodriguez";"2020-09-11 10:52:36";"2020-09-11 10:52:36";"Reunión Efectuada";1;3;effected-meeting;NULL
+988;13568587-9;"Robert Walters";"Sarah Machado";"2020-09-11 10:53:06";"2020-09-11 10:53:06";"Reunión Efectuada";1;3;effected-meeting;NULL
+988;13568587-9;"RG Principal";"Gabriel Bussoli";"2020-09-11 10:54:22";"2020-09-11 10:54:22";"Reunión Efectuada";1;3;effected-meeting;NULL
+988;13568587-9;Besalco;"Hector Castillo";"2020-09-11 10:54:33";"2020-09-11 10:54:33";"Reunión Efectuada";1;3;effected-meeting;NULL
+988;13568587-9;"Michael Page";"Ignacio Brain";"2020-09-11 10:54:42";"2020-09-11 10:54:42";"Reunión Efectuada";1;3;effected-meeting;NULL
+988;13568587-9;"Atlas Renewabkle Energy";"Ivan Jara";"2020-09-11 10:54:50";"2020-09-11 10:54:50";"Reunión Efectuada";1;3;effected-meeting;NULL
+988;13568587-9;"Consultor en Permiting";"Nelson Garcia";"2020-09-11 10:54:57";"2020-09-11 10:54:57";"Reunión Efectuada";1;3;effected-meeting;NULL
+988;13568587-9;Besalco;"Pablo Morales";"2020-09-11 10:55:08";"2020-09-11 10:55:08";"Reunión Efectuada";1;3;effected-meeting;NULL
+988;13568587-9;Sonnedix;"Nelson Rodriguez";"2020-09-11 10:55:17";"2020-09-11 10:55:17";"Reunión Efectuada";1;3;effected-meeting;NULL
+988;13568587-9;"Pace People";"Aidan Dodgson";"2020-09-11 10:55:24";"2020-09-11 10:55:24";"Reunión Efectuada";1;3;effected-meeting;NULL
+1013;8760100-5;"Guanaco Compania Minera Spa";"Allen Olivares Jamett";"2020-09-13 10:45:44";"2020-09-23 09:45:45";"Reunión Efectuada";1;3;effected-meeting;NULL
+1013;8760100-5;"Inversiones Los Pelambres Chile Limitada";"Jorge Opazo ";"2020-09-13 10:57:55";"2020-09-23 09:44:35";"Reunión Efectuada";1;3;effected-meeting;NULL
+1031;8304202-8;"Astrazeneca Farmaceutica Chile Limitada";"Carlos Lasserre";"2020-09-14 19:03:56";"2020-09-21 09:30:13";"Reunión Efectuada";1;3;effected-meeting;NULL
+1032;11621328-1;"Laboratorio MSD";"Fiorella Cagliostro";"2020-09-15 16:43:07";"2020-09-15 16:43:38";"Reunión Efectuada";1;3;effected-meeting;NULL
+1032;11621328-1;SANITAS;"Carlos Pardo";"2020-09-15 16:45:22";"2020-09-15 16:46:25";"Reunión Efectuada";1;3;effected-meeting;NULL
+1032;11621328-1;"Synthon Chile Limitada";"Manuel Solo";"2020-09-15 16:45:22";"2020-09-15 16:46:27";"Reunión Efectuada";1;3;effected-meeting;NULL
+1032;11621328-1;"TECNOFARMA S.A.";"Juan Moya";"2020-09-15 16:45:22";"2020-09-15 16:46:56";"Reunión Efectuada";1;3;effected-meeting;NULL
+1032;11621328-1;"ISP CHILE";"Heriberto García";"2020-09-15 16:45:22";"2020-09-15 16:47:06";"Reunión Efectuada";1;3;effected-meeting;NULL
+1032;11621328-1;"SOCOFAR CRUZ VERDE";"Roberto Araya";"2020-09-15 16:45:22";"2020-09-16 10:10:38";"Reunión Efectuada";1;3;effected-meeting;NULL
+1032;11621328-1;"AXON PHARMA";"Alejandro Jimenez";"2020-09-15 16:45:22";"2020-09-15 16:47:23";"Reunión Efectuada";1;3;effected-meeting;NULL
+1032;11621328-1;"Boehringer Ingelheim";"Patricio Dooner";"2020-09-15 17:09:39";"2020-09-16 10:10:21";"Reunión Efectuada";1;3;effected-meeting;NULL
+1032;11621328-1;"Abbott Laboratories De Chile Ltda";"Francisco Cáceres";"2020-09-15 17:15:25";"2020-09-21 13:28:28";"Reunión Efectuada";1;3;effected-meeting;NULL
+1032;11621328-1;Bayer;"Waldo Leiva";"2020-09-16 09:02:48";"2020-09-21 13:28:36";"Reunión Efectuada";1;3;effected-meeting;NULL
+1032;11621328-1;"Laboratorios Saval";"Gabriela Seng";"2020-09-16 15:46:59";"2020-09-21 13:28:47";"Reunión Efectuada";1;3;effected-meeting;NULL
+1032;11621328-1;"Laboratorios Saval";"Frank Wanckel";"2020-09-16 15:46:59";"2020-09-21 13:28:41";"Reunión Efectuada";1;3;effected-meeting;NULL
+1031;8304202-8;"Astrazeneca Farmaceutica Chile Limitada";"Andrew Cioffi";"2020-09-17 08:44:26";"2020-09-21 10:06:45";"Reunión Efectuada";1;3;effected-meeting;NULL
+1031;8304202-8;"Laboratorio MSD";"Norberto Ceballos Fuentes";"2020-09-17 08:50:53";"2020-09-21 10:08:59";"Reunión Efectuada";1;3;effected-meeting;NULL
+1031;8304202-8;"Boehringer Ingelheim Ltda";"Janine Molina";"2020-09-17 10:51:14";"2020-09-21 10:10:06";"Reunión Efectuada";1;3;effected-meeting;NULL
+1031;8304202-8;"Bristol Myers Squibb de Chile";"Nancy Oses";"2020-09-21 10:20:02";"2020-09-28 09:20:15";"Reunión Efectuada";1;3;effected-meeting;NULL
+1031;8304202-8;"Novartis Chile";"Claudio Missarelli";"2020-09-21 11:06:15";"2020-09-28 09:17:15";"Reunión Efectuada";1;3;effected-meeting;NULL
+723;18095586-0;Reefer;"Pedro M.";"2020-09-21 11:46:11";"2020-10-26 10:00:22";"Reunión Efectuada";1;3;effected-meeting;NULL
+1032;11621328-1;Tecnigen;"Luis Alban";"2020-09-21 13:27:31";"2020-09-21 13:28:45";"Reunión Efectuada";1;3;effected-meeting;NULL
+1032;11621328-1;"Fresenius Kabi";"Paola Román";"2020-09-21 13:27:31";"2020-09-21 13:28:53";"Reunión Efectuada";1;3;effected-meeting;NULL
+966;25974369-9;NULL;"Andres Gonzalez";"2020-09-30 11:02:45";"2020-09-30 11:02:45";"Reunión Efectuada";1;3;effected-meeting;NULL
+966;25974369-9;NULL;"Juan Arrango";"2020-09-30 11:03:26";"2020-09-30 11:03:26";"Reunión Efectuada";1;3;effected-meeting;NULL
+966;25974369-9;NULL;"Hugo Giuliani";"2020-09-30 11:03:26";"2020-09-30 11:04:20";"Reunión Efectuada";1;3;effected-meeting;NULL
+966;25974369-9;NULL;"Sebastian Orue";"2020-09-30 11:04:20";"2020-09-30 11:04:20";"Reunión Efectuada";1;3;effected-meeting;NULL
+124;mariateresa.ferrada@lablab.cl;ENAP;"Daniel Lazo ";"2020-10-01 11:32:47";"2020-10-01 11:32:47";"Reunión Efectuada";1;3;effected-meeting;NULL
+966;25974369-9;NULL;"Javier Bielefeldt";"2020-10-02 09:39:51";"2020-10-02 09:39:52";"Reunión Efectuada";1;3;effected-meeting;NULL
+966;25974369-9;NULL;"Alvaro Manriquez";"2020-10-02 09:40:01";"2020-10-02 09:40:01";"Reunión Efectuada";1;3;effected-meeting;NULL
+1029;11624917-0;"Asesorias Legales Baranda Y Compania Abogados S A";"Giampaolo Zecchetto";"2020-10-02 10:50:36";"2020-10-09 10:02:11";"Reunión Efectuada";1;3;effected-meeting;NULL
+1029;11624917-0;"Coca Cola Andina";"Nelson Segura";"2020-10-02 10:53:10";"2020-10-02 10:54:29";"Reunión Efectuada";1;3;effected-meeting;NULL
+1029;11624917-0;"NESTLE CHILE";"Paola Salcedo Gabrielli";"2020-10-02 10:54:55";"2020-10-09 10:11:36";"Reunión Efectuada";1;3;effected-meeting;NULL
+1029;11624917-0;"RANDOM ";"Federico Alvarez";"2020-10-02 11:01:09";"2020-10-02 11:01:09";"Reunión Efectuada";1;3;effected-meeting;NULL
+1029;11624917-0;SOCOFAR;"Gabriel Gonzalez";"2020-10-02 11:10:31";"2020-10-02 11:10:31";"Reunión Efectuada";1;3;effected-meeting;NULL
+1029;11624917-0;"Wise Athena";"Allan Gamboa";"2020-10-02 11:11:25";"2020-10-02 11:11:25";"Reunión Efectuada";1;3;effected-meeting;NULL
+1029;11624917-0;"Bredenmaster Chile";"Oscar Falla";"2020-10-02 11:11:54";"2020-10-02 11:11:54";"Reunión Efectuada";1;3;effected-meeting;NULL
+1029;11624917-0;"Mercado Libre";"Iral Onetto";"2020-10-02 11:12:05";"2020-10-02 11:12:05";"Reunión Efectuada";1;3;effected-meeting;NULL
+1029;11624917-0;"TBM Consulting Group";"Oscar Castillo";"2020-10-02 11:12:16";"2020-10-02 11:12:16";"Reunión Efectuada";1;3;effected-meeting;NULL
+1029;11624917-0;"Soc De Transportes Nazar Limitada";"Nelson Campos";"2020-10-02 11:12:33";"2020-10-02 11:12:33";"Reunión Efectuada";1;3;effected-meeting;NULL
+1029;11624917-0;"Asesorias Proyectos Ganaderos ";"Leonardo Cuevas";"2020-10-02 11:13:03";"2020-10-09 10:02:44";"Reunión Efectuada";1;3;effected-meeting;NULL
+1029;11624917-0;"Sociedad Comercializadora Y Productora Prodquim Limitada";"Ricardo Asiares";"2020-10-02 11:13:32";"2020-10-02 11:13:32";"Reunión Efectuada";1;3;effected-meeting;NULL
+1029;11624917-0;"Caffarena S.A.";"Germán Inostroza";"2020-10-02 11:17:02";"2020-10-02 11:17:02";"Reunión Efectuada";1;3;effected-meeting;NULL
+1029;11624917-0;"Universidad Mayor";"Claudio Quezada";"2020-10-02 11:17:43";"2020-10-02 11:17:43";"Reunión Efectuada";1;3;effected-meeting;NULL
+1029;11624917-0;"Comercializadora Y Elaboradora Ze Farms Spa";"Osvaldo Eastman";"2020-10-02 11:17:54";"2020-10-02 11:17:54";"Reunión Efectuada";1;3;effected-meeting;NULL
+1029;11624917-0;"Energy Fitness";"Mauricio Caro Lagos";"2020-10-02 11:18:20";"2020-10-07 10:31:13";"Reunión Efectuada";1;3;effected-meeting;NULL
+1029;11624917-0;"Informatica Softcorp Limitada";"Pablo Gamboa";"2020-10-02 11:18:30";"2020-10-02 11:18:31";"Reunión Efectuada";1;3;effected-meeting;NULL
+1029;11624917-0;"TBM Consulting Group";"Oscar Castillo";"2020-10-02 11:18:47";"2020-10-02 11:18:47";"Reunión Efectuada";1;3;effected-meeting;NULL
+1029;11624917-0;"Cia Molinera San Cristobal S A";"Maximo Cuevas";"2020-10-07 10:25:08";"2020-10-07 10:25:08";"Reunión Efectuada";1;3;effected-meeting;NULL
+1029;11624917-0;"Nova Austral";"Andres Cuevas";"2020-10-07 11:05:43";"2020-10-07 11:05:43";"Reunión Efectuada";1;3;effected-meeting;NULL
+966;25974369-9;NULL;"Ruben Carvalho";"2020-10-10 13:54:47";"2020-10-10 13:54:47";"Reunión Efectuada";1;3;effected-meeting;NULL
+966;25974369-9;NULL;"Rodrigo Saez";"2020-10-13 15:40:31";"2020-10-13 15:40:31";"Reunión Efectuada";1;3;effected-meeting;NULL
+1052;7012137-9;"Prosud S A";"Rafael Undurraga";"2020-10-21 13:12:55";"2020-10-21 19:16:50";"Reunión Efectuada";1;3;effected-meeting;NULL
+1052;7012137-9;"Solek Chile Holding Spa";"Sergio Guzman";"2020-10-21 19:02:38";"2020-10-21 19:16:54";"Reunión Efectuada";1;3;effected-meeting;NULL
+1052;7012137-9;NULL;"Alexander Beveridge";"2020-10-21 19:09:27";"2020-10-21 19:10:57";"Reunión Efectuada";1;3;effected-meeting;NULL
+901;7037353-k;"Besalco construcciones";"Rodrigo Bezanilla";"2020-10-29 11:23:40";"2020-10-29 11:24:23";"Reunión Efectuada";1;3;effected-meeting;NULL
+424;8674299-3;"Banco Internacional";"Segismundo Schulin Zeuthen";"2020-10-29 17:09:08";"2020-10-29 17:09:08";"Reunión Efectuada";1;3;effected-meeting;NULL
+1156;26669893-3;Vinilit;"Erika Reyes";"2020-11-02 10:28:04";"2020-11-02 10:28:04";"Reunión Efectuada";1;3;effected-meeting;NULL
+1151;9703634-9;NULL;"Rodrigo Torres";"2020-11-17 15:36:59";"2020-11-17 15:36:59";"Reunión Efectuada";1;3;effected-meeting;NULL
+1151;9703634-9;"Cono Sur";"Gerardo Imbarack";"2020-11-17 15:37:24";"2020-11-17 15:37:24";"Reunión Efectuada";1;3;effected-meeting;NULL
+1219;19034355-3;"Ministerio de Energía Chile";"María de los Ángeles Valenzuela Armijo";"2020-11-17 18:04:22";"2020-11-25 01:02:32";"Reunión Efectuada";1;3;effected-meeting;NULL
+293;10104078-k;Nexus;"Eduardo Sanchez Wrighton";"2020-09-01 18:04:29";"2020-09-01 18:04:44";"Reunión No Efectuada";1;4;non-effected-meeting;NULL
+293;10104078-k;X-Data;"Flavio Henriquez ";"2020-09-01 18:04:29";"2020-09-01 18:04:49";"Reunión No Efectuada";1;4;non-effected-meeting;NULL
+293;10104078-k;Universidad;"Oriana Juarez";"2020-09-01 18:04:29";"2020-09-01 18:04:57";"Reunión No Efectuada";1;4;non-effected-meeting;NULL
+293;10104078-k;"European Southern Observatory";"Andrés Vinet";"2020-09-01 18:16:00";"2020-09-01 18:16:09";"Reunión No Efectuada";1;4;non-effected-meeting;NULL
+293;10104078-k;"KI Technology";"Paola Cosio Claros";"2020-09-01 18:16:00";"2020-09-01 18:16:12";"Reunión No Efectuada";1;4;non-effected-meeting;NULL
+293;10104078-k;"G&N Brands";"Sandra Devillaine";"2020-09-01 18:16:00";"2020-09-01 18:16:40";"Reunión No Efectuada";1;4;non-effected-meeting;NULL
+293;10104078-k;"Consultora CSO";"Guillermo Osses García";"2020-09-01 18:16:00";"2020-09-01 18:16:47";"Reunión No Efectuada";1;4;non-effected-meeting;NULL
+293;10104078-k;Edenred;"Andrea Manterola Blanquer";"2020-09-01 18:17:37";"2020-09-01 18:17:53";"Reunión No Efectuada";1;4;non-effected-meeting;NULL
+1032;11621328-1;"Laboratorios Saval";"Fernando Corvalan";"2020-09-15 16:45:22";"2020-09-15 16:47:18";"Reunión No Efectuada";1;4;non-effected-meeting;NULL
+209;13471862-5;Walmart;"eduardo medina";"2020-12-01 10:18:01";"2020-12-01 10:18:38";"Reunión No Efectuada";1;4;non-effected-meeting;NULL
